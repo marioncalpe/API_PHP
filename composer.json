@@ -1,0 +1,9 @@
+{
+    "name": "gwe/tp1phppart",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
